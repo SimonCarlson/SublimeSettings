@@ -1,0 +1,17 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"A File Icon",
+		"Anaconda",
+		"anaconda_rust",
+		"Boxy Theme",
+		"Git",
+		"Package Control",
+		"Quick Docs Launcher",
+		"Terminal"
+	]
+}
