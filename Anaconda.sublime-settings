@@ -1,3 +1,7 @@
 {
-    "swallow_startup_errors": true
+    "swallow_startup_errors": true,
+    "pep8_ignore":
+    [
+        "E501", "E303", "E302", "E128", "E251", "E722"
+    ],
 }
