@@ -5,3 +5,6 @@
 !.gitignore
 !Preferences.sublime-settings
 !Package Control.sublime-settings
+!Default (Windows).sublime-keymap
+!QuickDocsLauncher.sublime-settings
+!Anaconda.sublime-settings
