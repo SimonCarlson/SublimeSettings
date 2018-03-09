@@ -1,0 +1,11 @@
+[
+    { "keys": ["shift+alt+space"], "command": "search_input" },
+    { "keys": ["ctrl+o", "ctrl+l"], "command": "cancel_build"},
+    {
+        "keys": ["ctrl+l", "ctrl+o"],
+        "command": "exec",
+        "args": {
+            "hide_phantoms_only": true
+        }
+    }
+]
